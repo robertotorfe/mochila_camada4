@@ -1,0 +1,33 @@
+Generales
+Git –versión: saber con la versión que estoy trabajando
+
+Iniciar Sesión y conectarse un repositorio
+Git init: Creando un repositorio local/Almacén de archivos guardados en commits
+Git config user.name "": Iniciar sesión a través de mi nombre de usuario registrado en Github
+Git config user.email “”: Iniciar sesión a través de mi mail registrado en Github
+Para que ya sea directo y quede en mi computadora
+Git config --global user.name "": Iniciar sesión a través de mi nombre de usuario registrado en Github
+Git config --global user.email “”: Iniciar sesión a través de mi mail registrado en Github
+Git remote add origin “”: Conectar repositorio remoto 
+
+Agregando archivos a nuestro repositorio
+Git add: Indicar los archivos que queres subir
+Git Status: ver seguimiento de nuestros archivos
+Git add . : sube todos los archivos de nuestra carpeta
+Git restore: desaparece la modificación
+Git commit -m “mensaje”: punto de descripción
+Git log: historial de commits
+
+Subiendo archivos a nuestro repositorio remoto
+Git push origin main: subo archivos ya commiteados a la mi rama principal
+
+Bajando archivos
+Git clone “”: hace una copia de archivos del repositorio en mi computadora (no los tengo que tener) Ya se sincroniza con nuestro repositorio remoto.
+Git pull origin main:  En caso que ya tenga los archivos y estén modificados y quiero actualizarlos
+
+Ramas 
+Git branch “”: crear otra rama
+Git chekout “commit”: para cambiar de commit puedo volver a commits hechos anteriormente
+Git chekout “”: cambiar de rama
+Git merge “rama” agrego ramas (debo estar en la rama que quiero agregarla)
+Aparece recién modificado cuando se escribe algo en el archivo

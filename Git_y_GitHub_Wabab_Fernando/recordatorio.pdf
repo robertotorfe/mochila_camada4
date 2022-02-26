@@ -1,0 +1,8 @@
+Clonar un repositorio:
+git clone <url>
+
+Crear un nuevo repositorio:
+git init
+
+Crear un commit con mensaje:
+git commit -m "Mensaje del commit"

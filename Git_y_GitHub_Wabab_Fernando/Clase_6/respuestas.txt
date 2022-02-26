@@ -1,0 +1,8 @@
+1) Quien creo Git y por que ?
+El creador fue Linux Trovalds pensando en la eficiencia, la confiabilidad y compatibilidad del mantenimiento de versiones de aplicaciones cuando estas tienen un gran número de archivos de codigo fuente
+
+2) ¿A quién pertenece actualmente Github y por qué?
+Github pertenece actualmente a Microsoft, esto se debe a que compro la tecnologia con fines que desconozco
+
+3) ¿Hay otra forma que no sea la terminal para trabajar con Github?
+Actualmente existe una Interfaz grafica para poder trabajar con las herramientas que ofrece Github.

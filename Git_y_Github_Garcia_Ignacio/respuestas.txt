@@ -1,0 +1,5 @@
+a)Fue creado por Linus Torvalds(creador del OS Linux). Fue creado para tener un control de versiones.
+Pensando en la eficiencia y que sea compatible con nuevas versiones. 
+b)GitHub pertenece actualmente a Microsoft(la compro en el 2018)
+Microsoft compra GitHub porque la compañía adopto una estrategia nueva, mucho más abierta al mundo del software libre y a la integración con otras plataformas y servicios. Ademas para competir contra Amazon.
+c)Se puede trabajar desde la web y desde su aplicacion

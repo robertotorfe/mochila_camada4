@@ -1,0 +1,16 @@
+git init : inicia un nuevo proyecto en git 
+git config user.name:  guarda en usuario con el que nos registramos en github
+git config use.email : guarda en email con el que nos registramos en github
+
+git add: impuja al repositorio local todos los archivos sin seguimiento del proyecto
+git commit: crea un nuevo commit en nuestro repositorio local 
+git push: empuja los commit a nuetro repositorio remoto
+
+cd .. : vuelve un directorio atras
+ls: lista todos los carpetas y archivos del directorio
+touch: crea un archivo
+mkdir: crea un carpeta
+rm: elimina una archivo 
+
+ls -a : lista tambien las capetas que esta ocultas 
+

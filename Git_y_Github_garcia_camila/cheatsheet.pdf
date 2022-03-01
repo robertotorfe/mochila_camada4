@@ -1,0 +1,47 @@
+Función
+$ comando
+		
+Crear repositorio
+$ Git init
+
+Agregar usuario al repositorio
+$ config user.name"nombre del usuario"
+     
+Agregar correo a repositorio       
+$ Config user.email"nombre del mail"
+
+Crear una rama         
+$ Git branch
+
+Descarga los últimos cambio hechos en el repositorio          
+$ Git pull
+
+Sube los cambios al repositorio            
+$ Git push
+
+Cambia de rama         
+$ Git checkout
+ 
+Muestra el historial de los commits con información de quien lo hizo y cuando
+$ Git log
+
+Permite ver el entorno en el  que se trabaja y los archivos con y sin seguimiento
+$ Git status
+
+Sube todos los archivos al repositorio        
+$ Git .add
+
+Permite comitear los cambios realizados 
+$ Git commit -m"mensaje"
+
+Clona un repositorio  
+$ Git clone "link del repositorio"
+
+Sube un archivo en específico al repositorio
+$ Git add "nombre del archivo"
+
+Elimina una rama pero solo si no tiene cambios sin fusionar a la rama principal 	
+$Git branch -d"nombre de la rama"
+
+Eliminar la rama incluso si tiene cambios sin fusionar
+$ Git branch -D "nombre de la rama"

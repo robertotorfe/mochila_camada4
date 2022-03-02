@@ -1,0 +1,3 @@
+a) Git es un software de control de versiones diseñado por Linus Torvalds, pensando en la eficacia, la confiabilidad y compatibilidad del mantenimiento de versiones de aplicacioens cuando estas tienen un gran número de archivos de código fuente.
+b) El 4 de junio de 2018 Microsoft compró Github, para mantener su estrategia de un software libre.
+c) Otra forma es trabajar con VSC.

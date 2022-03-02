@@ -1,1 +1,30 @@
 Esta es una prueba de la edicion de este documento de comantos que es la actividad de la clase pasada.
+
+pwd          	saber direcciorio donde estas
+cd []       	 entrar carpeta dentro de directorio
+mkdir []  	   crear carpeta
+cd ..       	 Volver un directorio atras
+ls         	  listar directorios
+cd ~        	 Ir a Raiz
+clear       	 limpiar consola
+touch []   	 crear archivos de texto con la extension que se quiera
+cp [origen] [destino]    copiar
+nano [archivo]         editor de texto
+cat [archivo]		visualizar archivo
+more [archivo]          visualizar archivo
+mv [origen]  [destino/renombrar]     mover 
+ls -l[forma de lista]a[all]   listar con detalle todo
+   -R [lista recursiva]  muetra el contenido de todos los directorios y sub
+manual ls    manual
+--help    ayuda en comando
+rm [archivo]      borrar archivo
+rmdir [directorios vacios]   borra directorios vacios
+rm -r [directorio con cosas]  borra carpeta con cosas
+code .  ir a vsc
+git clone <url>
+git branch -a muetra todas las branch
+git push origin  <branch>
+git remote add origin <URL REPO>
+git add .  Añadir archivo a repo
+git commit -m "mensaje"  confirmar archivo
+

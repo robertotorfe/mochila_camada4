@@ -1,0 +1,55 @@
+Cheatsheet
+
+pwd para en qué directorio me encuentro
+
+cd usado para moverme entre directorios
+
+cd ../ retrocede un directorio
+
+cd ~ me lleva a mi usuario
+
+cd nombre carpeta  me mueve a la carpeta
+
+mkdir crea carpeta
+
+ls  muestra el contenido de mi directorio actual
+
+clear limpia la pagina de la terminal en la que estoy
+
+touch archivo.pdf  creo un archivo
+
+mv _origen/nombre_ _nuevo nombre_   para renombrar
+
+mv _origen/nombre_ _destino_   mover
+
+cp _origen/nombre_ _destino_  copiar
+
+rm _origen/nombre_ destino
+eliminar o remover
+
+ls -R  muestra todos los archivos sobre la carpeta en la que estoy
+
+code .   abre vsc sobre la carpeta en la que estoy
+
+git init  me permite crear un nuevo repositorio local
+
+git status  muestra el estado del repositorio
+
+git clone URL_de_repositorio_remoto
+clona un repositorio remoto a mi directorio
+
+git branch "nombre"
+crea una rama en mi repositorio
+
+git checkout "nombre"
+me permite moverme a la rama seleccionada
+
+git add "nombre del archivo"  me permite añadir a mi repositorio el archivo nombrado
+
+git add . agrego todos los archivos al repositorio
+
+git commit -m "descripcion del commit"
+me permite crear un commit con los archivos en mi repositorio
+
+git push origin "nombre de la rama"
+me permite subir al repositorio remoto el commit actual

@@ -1,0 +1,11 @@
+Clonar un repositorio existente ---- $ git clone ssh://usuario@domain.com/repo.git
+Crear un nuevo repositorio local ----- $ git init
+Crear un directorio ------------------ $ mkdir nombre del directorio
+Crear un archivo --------------------- $ touch nombrearchivo.terminación (txt/pdf/js/png...)
+Añadir todos los archivos ------------ $ git add .
+Commitear un archivo o directorio ----- $ git commit -m "mensaje"
+Crear una rama o branch --------------- $ git branch nombre de la rama
+Estado de archivos en el repositorio ----- $ git status
+Clonar un repositorio remoto existente ---- $ git clone
+Cambiar entre ramas ----------------------- $ git checkout nombre de la rama
+Subir archivos al repositorio ------------- $ git push origin master/main 

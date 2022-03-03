@@ -1,0 +1,9 @@
+Crear
+Clonar un repositorio existente
+$ git clone ssh://usuario@domain.com/repo.git
+Crear un repositorio local
+$ git init
+Configuracion
+Establecer usuario y mail
+$ git config user.name "nombre del usuario"
+$ git config user.email "email@email.com"

@@ -1,0 +1,45 @@
+Respuestas para la actividad de la Clase 8 - 4/3
+///
+Computadoras Gama Baja:
+//
+Equipo 1:
+Procesador:Core i3 7100
+Placa Madre:Motherboard Gigabyte Ga H110 M H 1151 Ddr4 6ta Y 7ma Gen
+Ram:Memoria RAM ValueRAM color verde 4GB 1 Kingston KVR26N19S6/4
+Disco:Disco duro interno Western Digital WD5000AAKX 500GB azul
+/
+Equipo 2:
+Procesador:Mother Gigabyte Amd A320m-s2h Ryzen A320 Am4
+Placa Madre:Ryzen 3 2200g
+Ram:Memoria RAM ValueRAM color verde 4GB 1 Kingston KVR26N19S6/4
+Disco:Disco duro interno Western Digital WD5000AAKX 500GB azul
+/
+Equipo 3:
+Procesador:Procesador Intel Core i3 9100 4.2GHz Turbo 1151 9th Gen
+Placa Madre:Mother Asrock B360M-OEM WIFI
+Ram:Memoria RAM ValueRAM color verde 4GB 1 Kingston KVR26N19S6/4
+Disco:Disco duro interno Western Digital WD5000AAKX 500GB azul
+///
+----
+Computadoras Gama Media:
+//
+Equipo 1
+Procesador: Procesador Intel Core i5 10600KF 4.8GHz Turbo Socket 1200
+Placa Madre:Mother ASUS PRIME B460M-A R2.0 Intel 10th Gen - Socket 1200
+Ram: Memoria Team DDR4 8GB 3200MHz T-Force Delta RGB White )x2)
+Disco:Disco Solido SSD Team 1TB 550MB/s T-Force Vulcan G
+GPU:GeForce GT 1030 2GD4 LP OC
+/
+Equipo 2
+Procesador:Procesador AMD Athlon 320GE 3.5Ghz AM4 + Cooler OEM
+Placa Madre:  A320M Asrock
+Ram: 	Memoria Team DDR4 8GB 2666MHz T-Force Delta RGB White CL16 (x2)
+Disco: Disco Solido SSD Team 1TB 550MB/s T-Force Vulcan G
+GPU: Placa de Video PNY GeForce GTX 1650 4GB GDDR6 Dual Fan
+/
+Equipo 3
+Procesador:Procesador Intel Core i5 11600K S1200 11th Gen Rocket Lake
+Placa Madre:Mother ASUS TUF GAMING B560M-PLUS WiFi Intel 11th Gen Socket 1200
+Ram:Memoria GeiL DDR4 8GB 3200MHz EVO X II RGB (x2)
+Disco:Disco Solido SSD Team 1TB 550MB/s T-Force Vulcan G
+GPU: Placa de Video PNY GeForce GTX 1650 4GB GDDR6 Dual Fan

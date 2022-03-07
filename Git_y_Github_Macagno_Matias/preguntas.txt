@@ -1,0 +1,6 @@
+Quien invento el sistema de control de git y por que?
+Git es un sistema de control de versiones que desarrolló originalmente Linus Torvalds, permite la gestion del trabajo sin tener que estar fisicamente cerca. 
+A quien pertenece Github y por que?
+Pertenece a Microsoft porque lo compro en 7500 millones de dolares.
+Hay otra forma que no sea la terminal para trabajar con github? 
+Si, a traves de distintos programs e interfaces como por ejemplo Visual Studio Code.

@@ -1,6 +1,0 @@
-Respuestas:
-a- Git fue creado por Linus Torvalds (creador de Linux) con la idea de un sistema código abierto, pensando en la eficiencia, la confiabilidad y compatibilidad del mantenimiento de versiones de aplicaciones cuando estas tienen un gran número de archivos de código fuente.
-
-b- En junio de 2018 Microsoft compró GitHub con la finalidad de expadir los servicios y la infraestructura del sitio.
-
-c-Se puede trabajar desde la interfaz gráfica que ofrece Github.

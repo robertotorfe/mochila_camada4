@@ -1,0 +1,11 @@
+1- A- El usuario root en GNU/Linux es el usuario que tiene acceso administrativo al   sistema.
+B- En Ubuntu su falla porque root no tiene contraseña. Puede "arreglar" esto estableciendo una contraseña para root, pero se desaconseja y no es necesario ya que sudo proporciona todos los privilegios. Incluso puede ejecutar el su cómo root escribiendo sudo su. A continuación, escribe su propia contraseña y se convierte en root. Sin embargo, como sudo proporciona una manera de abrir un Shell root no hay necesidad de ejecutar el su con él para este fin. Puede utilizar simplemente sudo -i.
+C- En linux nos encontramos con dos tipos de procesos:
+? Background processes: Son los procesos automáticos o no interactivos.
+? Frontend processes: Son los procesos interactivos.
+D- Linux asigna un número único de cinco dígitos a cada proceso. Al número generado se le conoce como PID (número de identificación de proceso), y es una manera excelente para identificar los procesos, ya que no es posible tener dos PID iguales, cada proceso tiene su número exclusivo hasta que muera.
+
+
+2- Las contraseñas de los usuarios se cambian en Ubuntu usando el comando passwd. Cuando ingresen el comando passwd, el sistema les pedirá que ingresen la nueva contraseña para su usuario root, después el sistema les pedirá que vuelvan a escribir la nueva contraseña. Después de hacerlo, el sistema confirmará que la contraseña se actualiza correctamente.
+
+

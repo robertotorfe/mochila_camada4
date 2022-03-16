@@ -1,0 +1,38 @@
+
+¿que es un usuario root en linux?
+El el usuario que tiene acceso administrativo al sistema, tiene todos los permisos y privilegios.	
+
+¿por que ubuntu no me deja establecer la contraseña durante la instalaciòn?
+cuando instalamos ubuntu se crea una cuenta de usuario norma, es decir, de administrador, que no es lo mismo que root, entonces, para
+poder contar con todos los privilegios de un usuario root, se debe establecer la contraseña una vez se instale el sistema, ya que se
+obtienen mucho privilegios y se puede dañar el sistema
+
+¿cuales son los procesos tipicos de linux?
+los procesos como programas que están corriendo en nuestro Sistema Operativo. Dependiendo de la forma en que corren estos programas
+en LINUX se los puede clasificar en tres grandes categorías:
+Procesos Normales: son los programas que utiliza el usuario generalmente y se encuentran conectados a una terminal. El programa
+ aparecerá el pantalla y interactuara con el usuario.
+
+Procesos Daemon: Generalmente los conocemos como servicios. La gran mayoría de ellos en vez de usar la terminal para escuchar
+un requerimiento lo hacen a través de un puerto.
+
+Procesos Zombie: es un proceso que ha completado su ejecución pero aún tiene una entrada en la tabla de procesos. Esto se debe a
+ que dicho proceso (proceso hijo) no recibió una señal por parte del proceso de nivel superior (proceso padre) que lo creó
+ informándole que su vida útil ha terminado. 
+
+Los principales estados en los que pueden encontrarse los procesos en Linux/Unix son los siguientes:
+
+running (R) : Procesos que están en ejecución.
+sleeping (S) : Procesos que están esperando su turno para ejecutarse.
+stopped (D) : Procesos que esperan a que se finalice alguna operación de Entrada/Salida.
+zombie (Z) : Procesos que han terminado pero que siguen apareciendo en la tabla de procesos.
+
+
+¿como identificarlos?
+Para ver el estado de los procesos en el sistema operativo tenemos varios comandos.
+
+-Tecleando el comando  top  desde una terminal se nos mostrarán todos estos procesos; este comando monitoriza dinámicamente
+ los procesos del sistema mostrando su estado, uso de CPU, cantidad de memoria, tiempo desde su inicio, nombre, etc.
+
+-Para ver los procesos en sistemas Linux, contamos con el comando ‘ ps ’, que listará (de múltiples formas según las opciones que
+ le pasemos) todos los procesos que se encuentran corriendo en nuestro equipo.

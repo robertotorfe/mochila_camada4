@@ -43,3 +43,27 @@ Placa Madre:Mother ASUS TUF GAMING B560M-PLUS WiFi Intel 11th Gen Socket 1200
 Ram:Memoria GeiL DDR4 8GB 3200MHz EVO X II RGB (x2)
 Disco:Disco Solido SSD Team 1TB 550MB/s T-Force Vulcan G
 GPU: Placa de Video PNY GeForce GTX 1650 4GB GDDR6 Dual Fan
+///
+
+Computadoras gama alta:
+//
+Equipo 1
+Procesador: Core i7-10700
+Placa Madre:Mother ASUS PRIME Z590-A ATX S1200 10th/11th Gen
+Ram:Mother ASUS PRIME Z590-A ATX S1200 10th/11th Gen (x2)
+Disco:Solido SSD Team 1TB 550MB/s T-Force Vulcan G (x2)
+GPU: Placa de Video PNY Quadro RTX 4000 8GB GDDR6
+//
+Equipo 2
+Procesador: Amd Ryzen 7 3800xt
+Placa Madre: Mother ASUS ROG STRIX B550-F GAMING WI-FI AM4 PCI-E 4.0
+Ram: 	Memoria Team DDR4 16GB 3200MHz Elite Plus (x2)
+Disco: Solido SSD Team 1TB 550MB/s T-Force Vulcan G (x2)
+GPU:Placa de Video Zotac GeForce RTX 3070 8GB GDDR6 Twin Edge LHR
+//
+Equipo 3
+Procesador: Procesador Intel Core i7 11700K 11th Gen Rocket Lake
+Placa Madre: Mother ASUS ROG MAXIMUS XIII EXTREME Z590 EATX
+Ram:  Memoria Team DDR4 16GB 3200MHz Elite Plus (x4)
+Disco: Disco Solido SSD M.2 ADATA 2TB XPG Gammix S70 Blade 7400MB/s NVMe PCI-E 4.0 x4
+GPU: Placa de Video ASUS GeForce RTX 3090 24GB GDDR6X ROG STRIX GAMING White

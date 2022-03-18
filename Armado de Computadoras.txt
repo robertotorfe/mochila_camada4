@@ -1,0 +1,119 @@
+Gama baja - Intel
+
+1:
+Procesador: Procesador Intel Core i3 10105F S1200 10th Gen Comet Lake
+
+Placa madre: Mother ASUS PRIME B460M-A R2.0 Intel 10th Gen - Socket 1200
+
+Memoria principal: Memoria Adata DDR4 8GB 2666MHz x2
+
+Memoria secundaria: Disco Rígido WD 1TB BLUE 64MB SATA 6.0GB/s
+
+
+Gama baja - AMD
+
+2:
+Procesador: Procesador AMD Athlon 320GE 3.5Ghz AM4 + Cooler OEM
+
+Placa madre: Mother Asrock X370M-HDV AM4
+
+Memoria ram: Memoria Adata DDR4 8GB 2666MHz Premier
+
+Memoria secundaria: Disco Rígido Seagate 1TB Barracuda 64MB SATA 6GB/s
+
+
+Gama baja 
+
+3:
+Procesador: Procesador AMD RYZEN 5 PRO 2600 3.90GHz AM4 OEM Sin Cooler
+
+Placa madre: Mother Gigabyte B450M DS3H WIFI AM4
+
+Memoria principal: Memoria GeiL DDR4 8GB 3000MHz Orion Red
+
+Memoria secundaria: Disco Solido SSD Team 128GB GX2 530MB/s
+
+
+Gama media - Intel
+
+1:
+ Procesador: Procesador Intel Core i5 12400 Socket 1700
+
+Placa madre: Mother Gigabyte Z690 UD 12Th DDR4 
+
+Memoria principal: Memoria GeiL DDR4 16GB 3000MHz Orion Black
+
+Memoria secundaria: Disco Solido SSD Patriot 512GB P210 520Mb/s 2.5
+
+GPU: Placa de Video Asrock Radeon RX 6500 XT 4 Gaming D OC
+
+
+Gama media - AMD
+
+2:
+Procesador: Procesador AMD RYZEN 5 3600 4.2GHz Turbo AM4 Wraith Stealth Cooler
+
+Placa madre: Mother ASUS PRIME B550M-A WIFI AM4
+
+Memoria principal: Memoria Team DDR4 16GB 2666MHz T-Force Delta RGB Black CL16
+
+Memoria secundaria: Disco Rígido Seagate 1TB Barracuda 64MB SATA 6GB/s
+
+GPU: Placa de Video GeForce MSI GT 1030 2GB GDDR4 OC LP
+
+
+Gama media 
+
+3:
+Procesador: Procesador AMD Ryzen 5 5600X 4.6GHz Turbo AM4 + Wraith Stealth Cooler
+
+Placa madre: Mother ASUS PRIME B550M-A WIFI AM4
+
+Memoria principal: Memoria GeiL DDR4 16GB 3000MHz EVO POTENZA RED 
+
+Memoria secundaria: Disco Solido SSD M.2 WD 240GB GREEN 545MB/s
+
+GPU: Placa de Video Asrock Radeon RX 6500 XT 4 Gaming D OC
+
+
+Gama alta - Intel
+
+1:
+
+Procesador: Procesador Intel Core i5 11600K S1200 11th Gen Rocket Lake
+
+Placa Madre: Mother ASUS Z590 ROG MAXIMUS XIII HERO WIFI 11th gen s1200
+
+Memoria principal: Memoria Adata DDR4 16GB (2x8GB) 3600Mhz XPg Spectrix D50 ROG
+
+Memoria secundaria: Disco Solido SSD M.2 ADATA 1TB XPG Gammix S70 Blade 7400MB/s NVMe PCI-E 4.0 x4
+
+GPU: Placa de Video MSI GeForce RTX 3070 Ti 8GB GDDR6X VENTUS 3X OC
+
+
+Gama alta - AMD
+
+2:
+Procesador: Procesador AMD Ryzen 9 5900X 4.8GHz Turbo AM4 - No incluye Cooler
+
+Placa Madre: Mother Asrock B550 PG Velocita
+
+Memoria principal: Memoria GeiL DDR4 16GB (2x8) 3600MHz Orion Black
+
+Memoria secundaria: Disco Solido SSD M.2 Patriot 1TB VP4300 7400MB/s NVMe PCI-E Gen4
+
+GPU: Placa de Video Zotac GeForce RTX 3080 12GB GDDR6X Trinity LHR
+
+Gama alta
+
+3:
+
+Procesador: Procesador Intel Core i7 11700K 11th Gen Rocket Lake
+
+Placa Madre: Mother ASUS ROG MAXIMUS XIII EXTREME Z590 EATX
+
+Memoria principal: Memoria Patriot Viper DDR4 64GB (2x32GB) 3200Mhz Steel RGB Black
+
+Memoria secundaria: Disco Solido SSD M.2 Team 4TB Cardea Zero Z340 3400MB/s NVMe PCI-E x4
+
+GPU: Placa de Video MSI GeForce RTX 3090 24GB GDDR6X GAMING X TRIO

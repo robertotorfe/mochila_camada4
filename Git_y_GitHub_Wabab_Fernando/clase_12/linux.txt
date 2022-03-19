@@ -1,0 +1,16 @@
+1) Un usuario root es aquel usuario que tiene todos los permisos, acceso total al sistema operativo
+
+2) Por defecto, el usuario root no tiene password y la cuenta se encunetra bloqueada de forma predeterminada. Para ejecutar comandos con privilegios se debe colocar previamente la palabra "sudo".
+
+3)
+Tipos de procesos:
+
+*Procesos principales: estos son procesos que crean otros procesos durante el tiempo de ejecución.
+
+*Procesos secundarios: estos procesos son creados por otros procesos durante el tiempo de ejecución.
+
+Se pueden identificar  por su ID de proceso (PID), así como su ID de proceso principal (PPID).
+
+4) En el caso de Debian, primero hay que ingresar como root, y luego colocar el comando passwd root <password_nueva>
+
+	

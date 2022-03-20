@@ -1,1 +1,0 @@
-# mochila_camada4

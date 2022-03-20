@@ -1,0 +1,17 @@
+¿Por qué un lenguaje de programación sólo puede utilizarse en algunos sistemas operativos y en otros no?. 
+
+Cualquier lenguaje de programación puede usarse en un sistema siempre y cuando haya un intérprete o compilador (segun corresponda al lenguaje en cuestión) si es que deseas programar en esa máquina con ese sistema operativo. Obvio si no hay tal intérprete o compilador no podrás usar ESE, tu lenguaje favorito, en ese sistema.
+Además, porque un lenguaje de programación compila a lenguaje ensamblador el cual es ejecutado por el sistema operativo, este lenguaje ensamblador depende de 2 cosas, de la arquitectura del procesador y la interpretación que le de el sistema operativo. Si en la computadora cambia la arquitectura del procesador el lenguaje ensamblador es totalmente diferente y no va a correr
+
+--------------------------------------------------------------------------------------------------------------------------
+
+¿Qué tipo de máquina virtual es virtualBox?.
+
+El hipervisor actúa como la plataforma para máquinas virtuales.Proporciona la división necesaria entre el sistema operativo de la máquina virtual y el hardware de la máquina host. Es un hipervisor del tipo alojado o hipervisor de tipo 2, , se ejecutan como una capa de software sobre un sistema operativo,  se instala en el sistema operativo como cualquier otro software.
+
+---------------------------------------------------------------------------------------------------------------------------
+
+Si tengo más de una máquina virtual instalada, y una se rompe, ¿esto afecta a las demás? ¿por qué?
+
+Las máquinas virtuales de procesos se ejecutan en un mismo servidor para ejecutar varias instancias de la misma aplicación de forma separada. De ese modo, si una de ellas falla, no afectará al funcionamiento del resto.
+

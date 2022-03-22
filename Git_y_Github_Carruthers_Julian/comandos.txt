@@ -28,3 +28,4 @@ git remote add origin <URL REPO>
 git add .  Añadir archivo a repo
 git commit -m "mensaje"  confirmar archivo
 
+git pull actualizo el repo local

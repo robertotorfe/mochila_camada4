@@ -1,0 +1,3 @@
+1) Cualquier lenguaje de programación puede usarse en un sistema siempre y cuando haya un intérprete o compilador (segun corresponda al lenguaje en cuestión) si es que deseas programar en esa máquina con ese sistema operativo. No todos los sistemas operativos tienen compilador o intérprete.
+2) VirtualBox es una máquina virtual de procesos.
+3) No. No afectaría, ya que son entornos independientes.

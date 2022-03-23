@@ -1,0 +1,21 @@
+VirtualBox es una una aplicación que sirve para hacer máquinas
+virtuales con instalaciones de sistemas operativos.
+
+1. ¿Por qué un lenguaje de programación sólo puede utilizarse en
+algunos sistemas operativos y en otros no?
+Si el lenguaje de programación no tiene un compilador o lenguaje ensamblador
+que se ejecuta por el sistema operativo, no puede utilizarse
+
+2. ¿Qué tipo de hipervisor es VirtualBox?
+El hipervisor actúa como la plataforma para máquinas virtuales. 
+Proporciona la división necesaria entre el sistema operativo de
+la máquina virtual y el hardware de la máquina host.
+Es un hipervisor del tipo alojado,  se instala en el sistema operativo 
+como cualquier otro software.
+
+3. Si tengo más de una máquina virtual instalada, y una se rompe, 
+¿esto afecta a las demás? ¿por qué?
+Las máquinas virtuales de procesos se ejecutan en un mismo servidor
+para ejecutar varias instancias de la misma aplicación de forma separada.
+De ese modo, si una de ellas falla, no afectará al funcionamiento del resto
+

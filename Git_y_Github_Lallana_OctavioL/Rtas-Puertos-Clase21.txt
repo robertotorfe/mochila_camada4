@@ -1,0 +1,24 @@
+¿Qué puertos se utilizan en los servidores estas diferentes aplicaciones?
+=============================================================================
+-Zoom- Puertos 80 y 443 TCP
+-Discord- El puerto 443 TCP
+-Google Meet- Puertos UDP y TCP 443
+-Whatsapp- Puertos TCP: 5222, 5223, 5228 y 524. Y UDP: 3478
+-MySQL- El puerto 3306 por defecto
+-Git- El puerto 9418
+-Secure Sockets Layer (SSL)- El puerto TCP 443
+-HTTP- El puerto 80
+-VirtualBox- El puerto local 2222 y el 22
+-Microsoft Outlook- El puerto 443 TCP
+File Transfer Protocol (FTP)- Puertos 21 y 20
+-Microsoft Word- Puerto UDP 4500
+-Skype- 443 TCP. 3478-3481 UDP. 50000-60000 UDP.
+-Epic Games- Puertos 53, 80, 443, 5795, 99, 5222, 5800 y 5847
+-FIFA 21- Puertos TCP 1935, 3478-3480, 3659, 10000-10099, 42127. UDP 3074, 3478-3479, 3659, 6000.
+-Spotify- Puertos TCP 80 443 445 3445 1400, 3400, 3401 y 3500 4070. Puertos: UDP 136 137 138, 1900, 1902 2869, 10243, 5353, 6969 y del 10280 al 10284
+-TeamViewer- Puertos TCP y UDP 5938
+-Netflix- TCP 1935 80 443. UDP 53.
+=============================================================================
+-Visual Studio Code- El puertoTCP 4026
+-Windows Update- Los puertos TCP 80, 443 y 49152-65535.
+-Counter Strike- UDP 1200, 27000-27015 TCP 27030-27039

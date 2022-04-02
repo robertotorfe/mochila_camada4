@@ -1,0 +1,21 @@
+Aplicaciones a investigar:
+
+Zoom: 80 y 443 TCP
+Discord: UDP aleatorio entre 50.000 y 65.535
+Google meet: UDP y TCP 443
+Whatsapp Web: TCP 5222 5223 5228 5242
+MySql: 3306
+Git: 9418
+SSL: TCP 443
+HTTP: 80 y 443 TCP
+VirgualBox:8080 local 80
+VPN: TCP 1723
+Microsoft Outlook: 587 
+FTP: TCP 20 y 21
+Microsoft Word: 80
+Skype: 443/TCP. 3478-3481/UDP. 50000-60000/UDP.
+Epic Games: 80, 433, 443, 3478, 3479, 5060, 5062, 5222, 6250, y 12000-65000.
+Fifa21: TCP: 1935, 3478-3480, 3659, 10000-10099, 42127. UDP: 3074, 3478-3479, 3659, 6000.
+Spotify: 80 y 443 445 y 3445 1400, 3400, 3401 y 3500 4070
+TeamViewer: 5938
+Netflix: 80

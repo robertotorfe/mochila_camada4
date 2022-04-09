@@ -13,5 +13,6 @@ El hipervisor actúa como la plataforma para máquinas virtuales.Proporciona la 
 
 Si tengo más de una máquina virtual instalada, y una se rompe, ¿esto afecta a las demás? ¿por qué?
 
+En las maquinas virtuales de sistemas, si una VM falla las demás seguiran funcinando con total normalidad, ya que son independientes entre si.
 Las máquinas virtuales de procesos se ejecutan en un mismo servidor para ejecutar varias instancias de la misma aplicación de forma separada. De ese modo, si una de ellas falla, no afectará al funcionamiento del resto.
 

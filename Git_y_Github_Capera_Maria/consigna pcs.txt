@@ -1,0 +1,105 @@
+Gama baja – Intel
+
+Primer pc,
+
+Procesador: Core i3 7100
+
+Placa madre: B150M PRO-VDH ddr4
+
+Memoria Principal, DDR4-2133
+
+Memoria Secundaria: Unidad de Estado Sólido ADATA SWORDFISH de 250GB, M.2 NVMe PCIe.
+
+Segunda PC,
+
+Procesador: Ryzen 3 2200g
+
+Placa Madre: Gigabyte B450M DS3H
+
+Memoria ram: 8gb ram
+
+Memoria secundaria:1 TB disco sólido SSD interno Kingston SA400S37/960G 960GB
+
+Tercera PC,
+
+Procesador:Memoria Ram Ddr2 2gb Original Nueva 800mhz.
+ 
+Placa madre:c246n wu2 gygabite
+ 
+Memoria principal:4gb ram
+ 
+Memoria secundaria:1 TB disco sólido SSD interno Kingston SA400S37/960G 960GB
+
+Gama Media,
+
+Primera PC,
+
+Procesador:Intel Core i5 3470 3.2 GHZ
+
+Placa madre:Tarjeta Madre H55-1156 Intel-xeon Core 2/3 I3/i5/i7
+
+Memoria principal:16gb ram
+
+Memoria secundaria:1 TB disco s▒lido SSD interno Kingston SA400S37/960G 960GB
+
+GPU: GeForce GT 1030 2GD4 LP OC
+
+Segunda PC,
+
+Procesador: Amd Am4 Serie A
+
+Placa madre A320M Asrock
+
+Memoria principal: 16 GB
+
+Memoria Secundaria: Unidad de estado sólido ADATA 240GB
+
+GPU: GeForce GT 1030 2GD4 LP OC
+
+Tercera PC,
+
+Procesador: AMD Ryzen 5 3600X
+
+Placa madre:MSI A520M-A PRO Socket AM4 DDR4 S-ATA 600 Micro ATX	
+
+Memoria principal: Corsair Vengeance LPX 32GB (2x16GB) DDR4 3000 (PC4-24000) C16 1.35V 
+
+Memoria Secundaria: CMK32GX4M2D3000C16	-
+Unidad de estado sólido ADATA 240GB
+
+GAMA ALTA:
+
+PRIMERA PC,
+
+Procesador: Core i7-10700
+
+Placa madre: ASROCK H410M-HDV/M.2 Socket 1200 Micro ATX
+
+Memoria principal: G.SKILL 64GB (2x32GB) Trident Z Royal DDR4 PC4-21300 2666MHz 288-Pin F4-2666C18D-64GTRS
+
+Memoria Secundaria: Unidad de Estado Solido SSD Gigabyte 240GB, 500/420, SATA III -
+
+GPU: Tarjeta de Video Nvidia Gigabyte Geforce GT 730, 2GB DDR3 - GV-
+
+SEGUNDA PC,
+
+Procesador: Amd Ryzen 7 3800xt
+
+Placa madre:GIGABYTE B550M AORUS ELITE, Chipset AMD B550
+
+Memoria principal:DIMM Patriot Viper Steel RGB, DDR4 PC4-28800 (3600MHz), CL20, 32GB (2 x 16GB).
+
+Memoria Secundaria: Unidad de Estado Sólido Western Digital Blue 3D de 1TB, M.2 SATA III (6Gb/s).
+GPU: Tarjeta gráfica Nvidia Geforce RTX 2060 Super Founders Edition
+
+TERCERA PC,
+
+Procesador: AMD Ryzen 9 3950X
+
+Placa madre: MSI A320M-A PRO A320 AM4 DDR4 HDMI DVI USB 3 Micro-ATX
+
+Memoria principal: G.Skill 64GB 2x32GB DDR4 PC4-21300 2666MHz CL18 1.2V
+
+Memoria Secundaria: Unidad de estado sólido XPG GAMMIX S70 de 1TB, M.2 NVMe PCIe.
+
+GPU: Tarjeta De Vídeo Rx 6600xt 8gb Gddr6 Gigabyte Gaming Oc Pro
